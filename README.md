@@ -1,3 +1,7 @@
+## The paper
+
+https://arxiv.org/pdf/2604.24172
+
 ## Reproducing the Analyses
 
 Before running any analyses, source the required helper files:
